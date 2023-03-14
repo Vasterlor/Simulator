@@ -6,7 +6,7 @@ namespace Simulator
     {
         public static void Main(string[] args)
         {
-            // Console.OutputEncoding = System.Text.Encoding.GetEncoding(1251);
+            Console.OutputEncoding = System.Text.Encoding.GetEncoding(1251);
             Console.CursorVisible = false;
             char[,] map =
             {
