@@ -1,0 +1,15 @@
+F:\Особисте\Simulator\Simulator\Simulator\obj\Debug\net6.0\Simulator.csproj.AssemblyReference.cache
+F:\Особисте\Simulator\Simulator\Simulator\obj\Debug\net6.0\Simulator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Особисте\Simulator\Simulator\Simulator\obj\Debug\net6.0\Simulator.AssemblyInfoInputs.cache
+F:\Особисте\Simulator\Simulator\Simulator\obj\Debug\net6.0\Simulator.AssemblyInfo.cs
+F:\Особисте\Simulator\Simulator\Simulator\obj\Debug\net6.0\Simulator.csproj.CoreCompileInputs.cache
+F:\Особисте\Simulator\Simulator\Simulator\bin\Debug\net6.0\Simulator.exe
+F:\Особисте\Simulator\Simulator\Simulator\bin\Debug\net6.0\Simulator.deps.json
+F:\Особисте\Simulator\Simulator\Simulator\bin\Debug\net6.0\Simulator.runtimeconfig.json
+F:\Особисте\Simulator\Simulator\Simulator\bin\Debug\net6.0\Simulator.dll
+F:\Особисте\Simulator\Simulator\Simulator\bin\Debug\net6.0\Simulator.pdb
+F:\Особисте\Simulator\Simulator\Simulator\obj\Debug\net6.0\Simulator.dll
+F:\Особисте\Simulator\Simulator\Simulator\obj\Debug\net6.0\refint\Simulator.dll
+F:\Особисте\Simulator\Simulator\Simulator\obj\Debug\net6.0\Simulator.pdb
+F:\Особисте\Simulator\Simulator\Simulator\obj\Debug\net6.0\Simulator.genruntimeconfig.cache
+F:\Особисте\Simulator\Simulator\Simulator\obj\Debug\net6.0\ref\Simulator.dll
